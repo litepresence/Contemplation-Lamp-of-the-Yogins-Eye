@@ -13,10 +13,10 @@ From the Italian by
 
 © 2010, Giuseppe Baroetto ISBN: 978-1-4452-0965-4
 
-La dottrina dell'atiyoga
-nel bSam gtan mig sgron
-di gNubs chen Sangs rgyas ye shes
-Traduzione del settimo capitolo
+  La dottrina dell'atiyoga
+  nel bSam gtan mig sgron
+  di gNubs chen Sangs rgyas ye shes
+  Traduzione del settimo capitolo
 
 Translated to English via interation with language models:
 
