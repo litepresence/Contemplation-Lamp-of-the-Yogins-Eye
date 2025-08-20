@@ -33,7 +33,7 @@ From the Italian by
 © 2010, Giuseppe Baroetto
 ISBN: 978-1-4452-0965-4
 
-Translated to English via interation with language models:
+Translated to English via interaction with language models:
 
 Claude 3.5 Haiku, GPT 4o mini, Deepl, and Grok
 
