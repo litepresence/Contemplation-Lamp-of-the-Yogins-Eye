@@ -1,3 +1,5 @@
+![Contemplation Lamp of the Yogin's Eye](https://raw.githubusercontent.com/litepresence/Contemplation-Lamp-of-the-Yogins-Eye/main/cover.png)
+
 # CONTEMPLATION:
 # The Lamp of the Yogin's Eye
 ## Chapter 7: The Doctrine of Ati Yoga
