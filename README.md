@@ -18,7 +18,7 @@ From the Italian by
     di gNubs chen Sangs rgyas ye shes
     Traduzione del settimo capitolo
 
-Translated to English via interation with language models:
+Translated to English via interaction with language models:
 
 Claude 3.5 Haiku, GPT 4o mini, Deepl, and Grok
 
